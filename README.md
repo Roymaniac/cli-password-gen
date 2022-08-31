@@ -45,6 +45,3 @@ Generate a certain number of character password without numbers in them
 ```bash
 pass-gen -nn
 ```
-
-  "preferGlobal": true,
-  "bin": "./index.js",
