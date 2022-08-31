@@ -1,0 +1,15 @@
+{
+  "name": "pass-gen",
+  "version": "1.0.0",
+  "description": "A node js command line password generator",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "commander": "^9.4.0",
+    "node-clipboardy": "^1.0.3"
+  }
+}
